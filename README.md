@@ -1,4 +1,5 @@
 HAB-Challenge1
 ==============
 
-The Cell Phone App
+The Primary Challenge
+Develop image detection capability that allows the user to draw a boundry around a HAB and have the application suggest a color of the HAB based on a pre-defined color palette.
